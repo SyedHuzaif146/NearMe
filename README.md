@@ -1,5 +1,6 @@
 # Ex04 Places Around Me
-## Date: 30.4.25
+# NAME=SYED HUZAIF
+# REG NO= 212224240166
 
 ## AIM
 To develop a website to display details about the places around my house.
